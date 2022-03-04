@@ -5,7 +5,7 @@ const studentProfile = {
     pidm: "54321",
     school:"University of the Incarnate Word",
     gradeLevel:"Senior",
-    avatar:"image.jpg",
+    avatar:"image.png",
     ImageAlt: "my beautiful, well defined face complete with so many features"
   };
   
